@@ -1,1 +1,1 @@
-https://github.com/Kitji/rsschool-cv/blob/gh-pages/cv
+https://Kitji.github.io/rsschool-cv/cv
