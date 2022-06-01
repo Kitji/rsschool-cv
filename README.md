@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Kitji.github.io/rsschool-cv/cv
